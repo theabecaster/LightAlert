@@ -1,7 +1,7 @@
 
-# Traffic Light Detector
+# Light Alert
 
-**Traffic Light Detector** is a mobile application designed to assist drivers by detecting traffic lights and notifying them when the light turns green. The app utilizes a custom-trained Core ML model to analyze a live camera feed in real time, providing sound and haptic feedback to alert the user.
+**Light Alert** is a mobile application designed to assist drivers by detecting traffic lights and notifying them when the light turns green. The app utilizes a custom-trained Core ML model to analyze a live camera feed in real time, providing sound and haptic feedback to alert the user.
 
 ---
 
